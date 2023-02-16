@@ -1,0 +1,15 @@
+E:\ит разработка\laba 1\laba 1\obj\Debug\net6.0\laba 1.csproj.AssemblyReference.cache
+E:\ит разработка\laba 1\laba 1\obj\Debug\net6.0\laba 1.GeneratedMSBuildEditorConfig.editorconfig
+E:\ит разработка\laba 1\laba 1\obj\Debug\net6.0\laba 1.AssemblyInfoInputs.cache
+E:\ит разработка\laba 1\laba 1\obj\Debug\net6.0\laba 1.AssemblyInfo.cs
+E:\ит разработка\laba 1\laba 1\obj\Debug\net6.0\laba 1.csproj.CoreCompileInputs.cache
+E:\ит разработка\laba 1\laba 1\bin\Debug\net6.0\laba 1.exe
+E:\ит разработка\laba 1\laba 1\bin\Debug\net6.0\laba 1.deps.json
+E:\ит разработка\laba 1\laba 1\bin\Debug\net6.0\laba 1.runtimeconfig.json
+E:\ит разработка\laba 1\laba 1\bin\Debug\net6.0\laba 1.dll
+E:\ит разработка\laba 1\laba 1\bin\Debug\net6.0\laba 1.pdb
+E:\ит разработка\laba 1\laba 1\obj\Debug\net6.0\laba 1.dll
+E:\ит разработка\laba 1\laba 1\obj\Debug\net6.0\refint\laba 1.dll
+E:\ит разработка\laba 1\laba 1\obj\Debug\net6.0\laba 1.pdb
+E:\ит разработка\laba 1\laba 1\obj\Debug\net6.0\laba 1.genruntimeconfig.cache
+E:\ит разработка\laba 1\laba 1\obj\Debug\net6.0\ref\laba 1.dll
